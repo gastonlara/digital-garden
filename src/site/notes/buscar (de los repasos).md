@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/buscar-de-los-repasos/"}
+{"dg-publish":true,"permalink":"/buscar-de-los-repasos/","tags":["gardenEntry"]}
 ---
 
 
