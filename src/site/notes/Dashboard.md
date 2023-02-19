@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dashboard/","tags":["personal"]}
+{"dg-publish":true,"permalink":"/Dashboard/","tags":["personal"]}
 ---
 
 ```mermaid
