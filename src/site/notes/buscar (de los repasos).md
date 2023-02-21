@@ -46,7 +46,7 @@ germinación indirecta de las zoosporas en oomycetes?
 
 ### plasmodial
 > plasmodial significa 
-> ![Pasted image 20230125155215.png](/img/user/adjuntos/Pasted%20image%2020230125155215.png)
+> ![Pasted image 20230125155215.png|500](/img/user/adjuntos/Pasted%20image%2020230125155215.png)
 > https://es.slideshare.net/Arcyria/tipos-de-talos-fungales-y-fungoides
 > ![Pasted image 20230125155337.png](/img/user/adjuntos/Pasted%20image%2020230125155337.png)
 
