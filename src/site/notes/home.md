@@ -3,7 +3,6 @@
 ---
 
 
-[[Dashboard\|Dashboard]]
 
 [[cerveza/Elaboración de cerveza\|Elaboración de cerveza]]
 	[[cerveza/rendimiento tubo co2\|rendimiento tubo co2]]
